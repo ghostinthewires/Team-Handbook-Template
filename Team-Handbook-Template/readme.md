@@ -2,7 +2,7 @@
 
 This handbook is a central collection point for various bits of knowledge that should be useful to new starters in the **[TEAM NAME HERE]**. It outlines our core values, how we got here in the first place, what our aims and objectives are, as well as more practical points about how to connect to various systems and networks. It also outlines principles about how we work (and why).
 
-The handbook is a living document, not immutable law. It is meant to change and get better over time as we figure more things out. Contributions from team members are welcome, just [submit a MR](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/Team-Handbook-Template/general/contributing)
+The handbook is a living document, not immutable law. It is meant to change and get better over time as we figure more things out. Contributions from team members are welcome, just [submit a MR](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/contributing)
 
 ## How We Work 
 
