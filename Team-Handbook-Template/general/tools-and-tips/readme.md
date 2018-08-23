@@ -7,8 +7,8 @@ What we use and what we use these things for:
 * [Team Foundation Server](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/tools-and-tips#team-foundation-server)
 * [Toggl](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/tools-and-tips#toggl)
 * [Trello](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/tools-and-tips#trello)
-* [Change Management](https://github.com/ghostinthewires/Rfcs-Template/tree/master/Rfcs-Template/rfcs)
-* [Incident Management](https://github.com/ghostinthewires/Post-Mortems-Template/tree/master/Post-Mortems-Template/post-mortems)
+* [Change Management](https://github.com/ghostinthewires/Rfcs-Template/tree/master/rfcs)
+* [Incident Management](https://github.com/ghostinthewires/Post-Mortems-Template/tree/master/post-mortems)
 
 
 ## Octopus Deploy
