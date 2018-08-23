@@ -6,7 +6,7 @@ The handbook is a living document, not immutable law. It is meant to change and 
 
 ## How We Work 
 
-* [General](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/Team-Handbook-Template/readme.md)
+* [General](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/readme.md)
   * [Commit Style Guide](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/commit-style-guide)
   * [Contributing](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/contributing)
   * [Edit this Handbook Locally](https://github.com/ghostinthewires/Team-Handbook-Template/tree/master/Team-Handbook-Template/general/edit-this-handbook-locally)
