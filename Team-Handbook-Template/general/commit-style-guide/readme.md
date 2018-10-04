@@ -36,7 +36,7 @@ if someone needs to repeat what you've done in the future, they can do so easily
 Writing good commit messages is important. Not just for yourself, but for other engineers on your project. This includes:
 
 * New (or recently absent) engineers who want to get up to speed
-any future engineers (including yourself) who want to see why a change was made
+* Any future engineers (including yourself) who want to see why a change was made
 
 ### Content
 
